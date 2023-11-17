@@ -1,0 +1,45 @@
+body{
+    background-attachment: fixed;
+    border-radius: 30%;
+    box-sizing: content-box;
+    background-color: wheat;
+    border-color: black;
+    background-origin: padding-box;
+}
+h1{
+    text-align: start;
+    justify-content: start;
+    color: rgb(226, 43, 58);
+    
+    font-size: 20px;
+    font-weight: bolder;
+}
+h2{
+    text-emphasis: lora;
+    text-align: left;
+    box-shadow: 2px 2px 2px 2px black;
+
+}
+img{
+    margin-left: 10px;
+    height: 150px;
+    width: 150px;
+    border-radius: 75%;
+    border: 5px solid burlywood;
+}
+h2{
+    font-weight: 100;
+    font-size: high;
+    color: rgb(226, 43, 43);
+}
+.div1{
+    margin: 0;
+    width: 400px;
+    float: left;
+}
+.div2{
+    margin-left: 100px;
+    width: 500px;
+    height: 500px;
+    float: left;
+}
